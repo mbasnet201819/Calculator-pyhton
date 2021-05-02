@@ -4,10 +4,14 @@ The Calculator was developed through the help of python application using tkinte
 
 
 ###Tools Used
-    - Python
-    - tkinter
+   
+   - Python
+   
+   - tkinter
 
-How to download: Just simply clone the repo or download and extract the zip file inside your pycharm project folder.
+How to Use:
+     
+     Installation: Just simply clone the repo or download and extract the zip file inside your pycharm project folder.
 
 
 Sample of Calculator
