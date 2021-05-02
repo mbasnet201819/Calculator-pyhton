@@ -8,7 +8,7 @@ root.geometry("341x316")
 
 root.iconbitmap("Calculator.ico")
 
-e = Entry(root, font = ('arial', 15), width = 31, bg = "light grey", bd = 0)
+e = Entry(root, font = ('arial', 15), width = 30, bg = "light grey", bd = 2)
 e.grid(row = 0, column = 0, columnspan=4, ipady=10)
 
 
